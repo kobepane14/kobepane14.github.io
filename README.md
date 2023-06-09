@@ -1,5 +1,6 @@
 # kobepane14.github.io
 CIT minor GitHub Page 
+<body>
 <h1>CIT 281 Labs and Projects</h1>
 <h3>Labs</h3>
 <ul>
@@ -28,3 +29,4 @@ CIT minor GitHub Page
   <li>Project 6: Use Class inheritance to build child Classes that build on parent Classes.</li>
   <li>Project 7: Create a CIT Minor GitHub Pages portfolio containing links to all project and lab repositories.</li>
 </ul>
+</body>
