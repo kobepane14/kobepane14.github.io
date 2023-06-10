@@ -21,13 +21,13 @@ CIT minor GitHub Page
 <h3>Projects</h3>
 <ul>
   <li><a href="https://kobepane14.github.io/cit281-p1/" target="_blank">Project 1</a>: Practice using terminal commands, VS Code, and executing code using node.js.</li>
-  <li>Project 2: Work with a git repo through the command line, use git through VS code.</li>
-  <li>Project 3: Create auxilary functions and export them, and import them in web server. Load HTML file using get route.</li>
-  <li>Project 4: Create a REST API server that imports data, and handles all types of routes using fastify. Returns, updates,
+  <li><a href="https://kobepane14.github.io/cit281-p2/" target="_blank">Project 2</a>: Work with a git repo through the command line, use git through VS code.</li>
+  <li><a href="https://kobepane14.github.io/cit281-p3/" target="_blank">Project 3</a>: Create auxilary functions and export them, and import them in web server. Load HTML file using get route.</li>
+  <li><a href="https://kobepane14.github.io/cit281-p4/" target="_blank">Project 4</a>: Create a REST API server that imports data, and handles all types of routes using fastify. Returns, updates,
   and deletes data.</li>
-  <li>Project 5: Create a monster game utilizing Classes and the exporting/importing of code modules.</li>
-  <li>Project 6: Use Class inheritance to build child Classes that build on parent Classes.</li>
-  <li>Project 7: Create a CIT Minor GitHub Pages portfolio containing links to all project and lab repositories.</li>
+  <li><a href="https://kobepane14.github.io/cit281-p5/" target="_blank">Project 5</a>: Create a monster game utilizing Classes and the exporting/importing of code modules.</li>
+  <li><a href="https://kobepane14.github.io/cit281-p6/" target="_blank">Project 6</a>: Use Class inheritance to build child Classes that build on parent Classes.</li>
+  <li><a href="https://kobepane14.github.io/cit281-p7/" target="_blank">Project 7</a>: Create a CIT Minor GitHub Pages portfolio containing links to all project and lab repositories.</li>
 </ul>
   <img src="steven-van-elk-8kQJCOXx3LM-unsplash.jpg" alt="ocean picture">
 </body>
