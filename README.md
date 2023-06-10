@@ -7,16 +7,16 @@ CIT minor GitHub Page
   <li><a href="https://kobepane14.github.io/cit281-lab01/" target="_blank">Lab 1</a>: Install neccesary software, practice VS Code shortcuts and terminal commands.</li>
   <li><a href="https://kobepane14.github.io/cit281-lab02/" target="_blank">Lab 2</a>: Practice terminal commands to move and create files. Initialize git repository, add and commit files, and clone a
   repo.</li>
-  <li>Lab 3: Practice using modern JS syntax such as object deconstructing, arrow functions, for in and for of loops, export
+  <li><a href="https://kobepane14.github.io/cit281-lab03/" target="_blank">Lab 3</a>: Practice using modern JS syntax such as object deconstructing, arrow functions, for in and for of loops, export
   and import modules.</li>
-  <li>Lab 4: Create initial web servers using Fastify. Handle a get route with a query.</li>
-  <li>Lab 5: Use Postman to test get routes, and return student objects based off of an id parameter, as well as a post route
+  <li><a href="https://kobepane14.github.io/cit281-lab04/" target="_blank">Lab 4</a>: Create initial web servers using Fastify. Handle a get route with a query.</li>
+  <li><a href="https://kobepane14.github.io/cit281-lab05/" target="_blank">Lab 5</a>: Use Postman to test get routes, and return student objects based off of an id parameter, as well as a post route
   to create a new student.</li>
-  <li>Lab 6: Join GitHub, work with classes by creating a Library class and a Book class.</li>
-  <li>Lab 7: Set up GitHub organization, clone repository to local device, practice error handling, and pushing updated files
+  <li><a href="https://kobepane14.github.io/cit281-lab06/" target="_blank">Lab 6</a>: Join GitHub, work with classes by creating a Library class and a Book class.</li>
+  <li><a href="https://kobepane14.github.io/cit281-lab07/" target="_blank">Lab 7</a>: Set up GitHub organization, clone repository to local device, practice error handling, and pushing updated files
   back to cloud repo.</li>
-  <li>Lab 8: Install node-fetch package. Handle a returned promise from a fetch statement using .then and .catch.</li>
-  <li>Lab 9: Complete a GitHub release workflow course.</li>
+  <li><a href="https://kobepane14.github.io/cit281-lab08/" target="_blank">Lab 8</a>: Install node-fetch package. Handle a returned promise from a fetch statement using .then and .catch.</li>
+  <li><a href="https://kobepane14.github.io/cit281-lab09/" target="_blank">Lab 9</a>: Complete a GitHub release workflow course.</li>
 </ul>
 <h3>Projects</h3>
 <ul>
