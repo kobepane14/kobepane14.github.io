@@ -4,8 +4,8 @@ CIT minor GitHub Page
 <h1>CIT 281 Labs and Projects</h1>
 <h3>Labs</h3>
 <ul>
-  <li><a href="https://kobepane14.github.io/cit281-lab01/">Lab 1</a>: Install neccesary software, practice VS Code shortcuts and terminal commands.</li>
-  <li>Lab 2: Practice terminal commands to move and create files. Initialize git repository, add and commit files, and clone a
+  <li><a href="https://kobepane14.github.io/cit281-lab01/" target="_blank">Lab 1</a>: Install neccesary software, practice VS Code shortcuts and terminal commands.</li>
+  <li><a href="https://kobepane14.github.io/cit281-lab02/" target="_blank">Lab 2</a>: Practice terminal commands to move and create files. Initialize git repository, add and commit files, and clone a
   repo.</li>
   <li>Lab 3: Practice using modern JS syntax such as object deconstructing, arrow functions, for in and for of loops, export
   and import modules.</li>
