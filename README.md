@@ -20,7 +20,7 @@ CIT minor GitHub Page
 </ul>
 <h3>Projects</h3>
 <ul>
-  <li>Project 1: Practice using terminal commands, VS Code, and executing code using node.js.</li>
+  <li><a href="https://kobepane14.github.io/cit281-p1/" target="_blank">Project 1</a>: Practice using terminal commands, VS Code, and executing code using node.js.</li>
   <li>Project 2: Work with a git repo through the command line, use git through VS code.</li>
   <li>Project 3: Create auxilary functions and export them, and import them in web server. Load HTML file using get route.</li>
   <li>Project 4: Create a REST API server that imports data, and handles all types of routes using fastify. Returns, updates,
